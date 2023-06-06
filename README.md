@@ -6,12 +6,12 @@ Simple blog website using Node.js and MongoDB
 
 ## Dependencies
 
-- [Node.js]("https://nodejs.org/en")
-- [npm]("https://www.npmjs.com/")
-- [ejs]("https://ejs.co/")
-- [body-parser]("https://www.npmjs.com/package/body-parser")
-- [express.js]("https://expressjs.com/")
-- [Mongodb]("https://www.mongodb.com/")
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/)
+- [ejs](https://ejs.co/)
+- [body-parser](https://www.npmjs.com/package/body-parser)
+- [express.js](https://expressjs.com/)
+- [Mongodb](https://www.mongodb.com/)
 - [Mongoose](https://mongoosejs.com/)
 
 ## Installation
