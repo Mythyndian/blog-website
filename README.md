@@ -12,6 +12,7 @@ Simple blog website using Node.js and MongoDB
 - [body-parser]("https://www.npmjs.com/package/body-parser")
 - [express.js]("https://expressjs.com/")
 - [Mongodb]("https://www.mongodb.com/")
+- [Mongoose](https://mongoosejs.com/)
 
 ## Installation
 
